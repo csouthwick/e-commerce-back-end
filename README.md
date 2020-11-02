@@ -6,8 +6,10 @@ An e-commerce back end made with Object-Relational Mapping via Sequelize. Helps 
 
 ## Made with
 - Node.js
+- Express
 - Sequelize
 - MySQL2
+- ES7 / ES 2016
 
 ## Installation
 
